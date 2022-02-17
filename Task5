@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Task 4</title>
+</head>
+<body>
+<table width='50%' border=5px>
+<tr><th>Country</th><th colspan="2">Politicians</th>
+</tr>
+<tr>
+<td rowspan="2">Turkmenistan</td><td>President</td><td>Gurbanguly Berdimuhamedow</td></tr>
+<tr>
+<td>Vice-President</td><td>Rasit Meredow</td></tr>
+<tr>
+<td rowspan="2">Eritrea</td><td>President</td><td>Isaias Afwerki</td></tr>
+<tr>
+<td>Vice-President</td><td>None</td></tr>
+</table>
+</table>
+</body>
+</html>
